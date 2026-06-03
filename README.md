@@ -71,11 +71,11 @@ We hope you find these prompts useful and have fun using Claude!
 - [Create a detailed social media content strategy using AI](#create-a-detailed-social-media-content-strategy-using-ai)
 - [Replicate any writing style](#replicate-any-writing-style)
 - [Use emotions to your advantage in marketing](#use-emotions-to-your-advantage-in-marketing)
-- [Find career pitfalls beforhand](#find-career-pitfalls-beforhand)
+- [Find career pitfalls beforehand](#find-career-pitfalls-beforehand)
 - [Build resumes using AI](#build-resumes-using-ai)
 - [Turn any piece of text into any writing style](#turn-any-piece-of-text-into-any-writing-style)
 - [Ideas to earn more money with your skills](#ideas-to-earn-more-money-with-your-skills)
-- [Earn with your skils and a budget](#earn-with-your-skils-and-a-budget)
+- [Earn with your skills and a budget](#earn-with-your-skills-and-a-budget)
 - [Analyze pros/cons of a decision](#analyze-proscons-of-a-decision)
 - [Improve your business model](#improve-your-business-model)
 - [Translate ad copy into other languages](#translate-ad-copy-into-other-languages)
@@ -107,7 +107,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Generate rebranding strategies using AI](#generate-rebranding-strategies-using-ai)
 - [Generate ad script and ad creative ideas using Ai](#generate-ad-script-and-ad-creative-ideas-using-ai)
 - [Generate giveaway ideas using Claude](#generate-giveaway-ideas-using-claude)
-- [Write launch speeches fro your new business](#write-launch-speeches-fro-your-new-business)
+- [Write launch speeches for your new business](#write-launch-speeches-for-your-new-business)
 - [Write thank you letters for your customers using AI](#write-thank-you-letters-for-your-customers-using-ai)
 - [Get solutions from a CEO to your problems](#get-solutions-from-a-ceo-to-your-problems)
 - [Create guest lectures using AI](#create-guest-lectures-using-ai)
@@ -131,7 +131,7 @@ We hope you find these prompts useful and have fun using Claude!
 - [Use Claude to create a business model](#use-claude-to-create-a-business-model)
 - [Find amazing domain names for your business using Claude](#find-amazing-domain-names-for-your-business-using-claude)
 - [Use AI to create SEO keywords.](#use-ai-to-create-seo-keywords)
-- [Plan your stratergies like Alex Hormozi](#plan-your-stratergies-like-alex-hormozi)
+- [Plan your strategies like Alex Hormozi](#plan-your-strategies-like-alex-hormozi)
 - [Generate questions to recruit top talent using Claude](#generate-questions-to-recruit-top-talent-using-claude)
 - [Save time writing youTube scripts with AI](#save-time-writing-youtube-scripts-with-ai)
 - [Use AI to get instagram story ideas](#use-ai-to-get-instagram-story-ideas)
@@ -2167,7 +2167,7 @@ Ideal customers = [Insert Here]
 Product = [Insert Here] 
 ```
 
-## Find career pitfalls beforhand
+## Find career pitfalls beforehand
 ```
 What are the common mistakes a person makes on the path to becoming [dream career]? Give step-by-step instructions on how to avoid those mistakes, a detailed career path with duration, and the best sources to learn from.  
 
@@ -2203,7 +2203,7 @@ Skills = [Insert Here]
 Budget = [Insert Here]
 ```
 
-## Earn with your skils and a budget
+## Earn with your skills and a budget
 ```
 With [skills] and [budget], give me 5 ideas, budgets and step by step instructions for every idea on how to earn more money.
 
@@ -2525,7 +2525,7 @@ Create 5 unique competitive challenges and the rewards for the giveaway program 
 Product =  [Insert here]
 ```
 
-## Write launch speeches fro your new business
+## Write launch speeches for your new business
 ```
 Write a launch speech for [product/business] that highlights the values of the [company or niche], addresses a widespread problem or mistake, and explains the purpose of the product without focusing on its features. Make the speech relatable and discuss the potential of the product.
 
@@ -2772,7 +2772,7 @@ Product = [your product details]
 Provide a list of 10 articles I could also write to rank for those keywords.
 ```
 
-## Plan your stratergies like Alex Hormozi
+## Plan your strategies like Alex Hormozi
 ```
 I'm giving you some content strategies of <person>, read it carefully and generate a content plan for my <new product> for next 12 weeks as the <person> do.
 
