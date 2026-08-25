@@ -24,8 +24,17 @@ We hope you find these prompts useful and have fun using Claude!
 
 
 
+## 2026 Update: Claude Skills, Claude Code & Prompting Docs
+
+* [Anthropic Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) - the living official guide (clear instructions, examples, XML tags, chain of thought, prefilling, long-context tips)
+* [Agent Skills open standard](https://agentskills.io/) - `SKILL.md` folders are the new way to package reusable prompts + scripts for Claude, Claude Code, Codex, Gemini CLI, Cursor and 40+ agents; see the curated Chinese list [awesome-claude-skills-zh](https://github.com/yzfly/awesome-claude-skills-zh)
+* [Claude Code memory & CLAUDE.md](https://code.claude.com/docs/en/memory) - project/user memory files are the highest-leverage "prompt" for coding agents
+* [awesome-chatgpt-zh · Claude Skills 指南](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/Claude_Skills.md) / [MCP 指南](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/MCP.md) - Chinese guides maintained by the same author
+
 ## Contents
 - [Claude Code Coding Prompt](claudecode/LinusTorvalds.md)
+- [AI Resume (with Claude Artifacts)](#ai-resumewith-claude-artifacts)
+- [system prompt and tools from claude code](#system-prompt-and-tools-from-claude-code)
 - [Smart Dev Task Template](claudecode/SmartDev.md)
 - [Summarize this PDF document (official example)](#summarize-this-pdf-document-official-example)
 - [Explain Python Code (official example)](#explain-python-code-official-example)
